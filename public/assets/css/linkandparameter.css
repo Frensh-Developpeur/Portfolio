@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Gloria+Hallelujah&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:ital@1&display=swap');
+
+li a{
+    list-style: none;
+    text-decoration: none!important;
+}
+
+.keyHome {
+    animation: videoHome 3s linear;
+}
+.text-shadow {
+    text-shadow: 1px 1px 10px red;
+}
+
+.gloria {
+    font-family: 'Gloria Hallelujah', cursive;
+}
+
+.josefin {
+    font-family: 'Josefin Sans', cursive;
+}
+
+.blue-title {
+   color : #6cb1fb;
+}
+
+.font-size_semi {
+    font-size: 1.5rem;
+}
+.font-size_hard {
+    font-size: 2rem!important;
+}
+.dropdown-item:hover {
+    background-color: #6cb1fb!important;
+}
+.block {
+    display: block;
+}

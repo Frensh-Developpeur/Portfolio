@@ -1,0 +1,26 @@
+@keyframes videoHome {
+    0%{
+        opacity: 0;
+    }
+
+    100% {
+        opacity: 1;
+    }
+}
+
+@keyframes loader {
+    0% {
+        transform: scaleY(0.1);
+        background: white;
+    }
+
+    50% {
+        transform: scaleY(1);
+        background: blue;
+    }
+
+    100% {
+        transform: scaleY(0.1);
+        background: transparent;
+    }
+}
